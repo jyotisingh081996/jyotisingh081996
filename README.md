@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning machine learning,deep learning,data analysis.
 - 🤔 Looking for oppurtunities in Data Science field.
 - 📫 Email me on jyotisingh081996@gmail.com.
-[![MasterHead](http://watzaoweb.com/wp-content/uploads/2022/07/website-design-company-in-yamuna-nagar.jpg)]()
+[![MasterHead](http://watzaoweb.com/wp-content/uploads/2022/07/website-design-company-in-yamuna-nagar.jpg)]
 
 
 <h3 align="center">A passionate frontend developer</h3>
